@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "quizId": "08AUG2026APTITUDE",
+  "quizId": "08AUG2026",
   "title": "Placement Aptitude Quiz - Day 3",
   "description": "Test your aptitude skills with this quiz covering logical reasoning, mathematics, and problem solving.",
   "duration": 10,
@@ -9,7 +9,7 @@
   "passingMarks": 50,
   "shuffleQuestions": true,
   "negativeMarking": 0,
-  "solutionUrl": "https://example.com/solutions/aptitude-solutions.pdf",
+  "solutionUrl": "https://raw.githubusercontent.com/Sreekumar07/Day3-answer-key/main/Day3_answer.pdf",
   "questions": [
     {
       "id": "q1",
