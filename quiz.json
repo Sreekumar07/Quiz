@@ -1,113 +1,128 @@
 {
   "schemaVersion": "1.0",
-  "quizId": "08AUG2026",
-  "title": "Placement Aptitude Quiz - Day 3",
-  "description": "Test your aptitude skills with this quiz covering logical reasoning, mathematics, and problem solving.",
+  "quizId": "10AUG2026LOGIC",
+  "title": "Placement Logic & Reasoning Quiz - Day 5",
+  "description": "Test your logical thinking, analytical reasoning, pattern recognition, and problem-solving skills.",
   "duration": 10,
-  "startTime": "2026-08-08T00:00:00.000Z",
-  "endTime": "2026-08-08T23:59:59.000Z",
+  "startTime": "2026-08-10T00:00:00.000Z",
+  "endTime": "2026-08-10T23:59:59.000Z",
   "passingMarks": 50,
   "shuffleQuestions": true,
   "negativeMarking": 0,
-  "solutionUrl": "https://raw.githubusercontent.com/Sreekumar07/Day3-answer-key/main/Day3_answer.pdf",
+  "solutionUrl": "https://example.com/solutions/logic-solutions.pdf",
   "questions": [
     {
       "id": "q1",
-      "question": "The difference between 35% of a number and 20% of the same number is 45. Find the number.",
+      "question": "A cube has 6 faces. If all faces are painted red and then cut into 27 smaller cubes, how many cubes will have exactly 2 painted faces?",
       "options": [
-        "250",
-        "300",
-        "350",
-        "400"
+        "8",
+        "12",
+        "6",
+        "4"
       ],
       "correct": 1
     },
     {
       "id": "q2",
-      "question": "The average of 9 numbers is 40. If one number 58 is removed, what is the new average?",
+      "question": "If CAT = 24 and DOG = 26, then BAT = ?",
       "options": [
-        "37.5",
-        "37.75",
-        "38",
-        "39"
+        "21",
+        "22",
+        "23",
+        "24"
       ],
       "correct": 1
     },
     {
       "id": "q3",
-      "question": "If the ratio of boys to girls is 7:5 and there are 84 boys, how many girls are there?",
+      "question": "Find the odd one out.",
       "options": [
-        "50",
-        "60",
-        "70",
-        "75"
+        "Keyboard",
+        "Mouse",
+        "Monitor",
+        "Printer"
       ],
-      "correct": 1
+      "correct": 3
     },
     {
       "id": "q4",
-      "question": "A product is sold for ₹1320 after a 12% profit. What was its cost price?",
+      "question": "A person walks 5 km North, then 3 km East, then 5 km South. How far is he from the starting point?",
       "options": [
-        "₹1178.57",
-        "₹1200",
-        "₹1250",
-        "₹1280"
+        "3 km",
+        "5 km",
+        "8 km",
+        "13 km"
       ],
       "correct": 0
     },
     {
       "id": "q5",
-      "question": "Find the next number: 5, 11, 19, 29, 41, ?",
+      "question": "Which number replaces the question mark? 2, 6, 12, 20, ?, 42",
       "options": [
-        "53",
-        "55",
-        "57",
-        "59"
+        "28",
+        "30",
+        "32",
+        "34"
       ],
       "correct": 1
     },
     {
       "id": "q6",
-      "question": "A train 180 m long crosses a platform 220 m long in 20 seconds. Find the speed of the train.",
+      "question": "A company hires 100 students. 60 know Python, 50 know Java, and 20 know both. How many know at least one language?",
       "options": [
-        "60 km/h",
-        "72 km/h",
-        "80 km/h",
-        "90 km/h"
+        "70",
+        "80",
+        "90",
+        "110"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "q7",
-      "question": "A can complete a work in 20 days and B in 30 days. Together they can complete it in:",
+      "question": "Which comes next? AZ, BY, CX, DW, ?",
       "options": [
-        "10 days",
-        "12 days",
-        "15 days",
-        "18 days"
-      ],
-      "correct": 1
-    },
-    {
-      "id": "q8",
-      "question": "Which of the following numbers is divisible by 9?",
-      "options": [
-        "423",
-        "532",
-        "641",
-        "728"
+        "EV",
+        "EU",
+        "FV",
+        "FW"
       ],
       "correct": 0
     },
     {
-      "id": "q9",
-      "question": "Find the missing term: C, F, K, R, ?",
+      "id": "q8",
+      "question": "You have a 5-litre and 3-litre jug. How can you measure exactly 4 litres?",
       "options": [
-        "Y",
-        "Z",
-        "A",
-        "C"
+        "Fill 5L and pour into 3L twice",
+        "Fill 5L, pour into 3L, empty 3L, transfer remaining 2L, fill 5L again",
+        "Fill only 3L",
+        "Impossible"
       ],
+      "correct": 1
+    },
+    {
+      "id": "q9",
+      "question": "A clock gains 2 minutes every hour. After 12 hours, how many minutes ahead will it be?",
+      "options": [
+        "12",
+        "18",
+        "24",
+        "30"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "q10",
+      "question": "In a coding contest, Rank 1 gets 100 points, Rank 2 gets 90, Rank 3 gets 80. If Sree ranks 4th, how many points does he get?",
+      "options": [
+        "60",
+        "70",
+        "75",
+        "85"
+      ],
+      "correct": 1
+    }
+  ]
+}      ],
       "correct": 2
     },
     {
