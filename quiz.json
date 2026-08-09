@@ -122,19 +122,4 @@
       "correct": 1
     }
   ]
-}      ],
-      "correct": 2
-    },
-    {
-      "id": "q10",
-      "question": "A father is 42 years old and his son is 14 years old. After how many years will the father be twice the age of his son?",
-      "options": [
-        "10",
-        "12",
-        "14",
-        "16"
-      ],
-      "correct": 2
-    }
-  ]
 }
