@@ -1,123 +1,123 @@
 {
   "schemaVersion": "1.0",
-  "quizId": "10AUG2026",
-  "title": "Placement Logic & Reasoning Quiz - Day 5",
-  "description": "Test your logical thinking, analytical reasoning, pattern recognition, and problem-solving skills.",
+  "quizId": "11AUG2026APTITUDE",
+  "title": "Placement Aptitude Quiz - Day 6",
+  "description": "Test your aptitude, logical reasoning, analytical thinking, and problem-solving skills.",
   "duration": 10,
-  "startTime": "2026-08-10T00:00:00.000Z",
-  "endTime": "2026-08-10T23:59:59.000Z",
+  "startTime": "2026-08-11T00:00:00.000Z",
+  "endTime": "2026-08-11T23:59:59.000Z",
   "passingMarks": 50,
   "shuffleQuestions": true,
   "negativeMarking": 0,
-  "solutionUrl": "https://example.com/solutions/logic-solutions.pdf",
+  "solutionUrl": "https://example.com/solutions/day6-solutions.pdf",
   "questions": [
     {
       "id": "q1",
-      "question": "A cube has 6 faces. If all faces are painted red and then cut into 27 smaller cubes, how many cubes will have exactly 2 painted faces?",
+      "question": "If 15 workers can complete a task in 20 days, how many days will 25 workers take to complete the same task?",
       "options": [
-        "8",
+        "10",
         "12",
-        "6",
-        "4"
+        "15",
+        "18"
       ],
       "correct": 1
     },
     {
       "id": "q2",
-      "question": "If CAT = 24 and DOG = 26, then BAT = ?",
+      "question": "Find the next number in the series: 7, 14, 28, 56, ?",
       "options": [
-        "21",
-        "22",
-        "23",
-        "24"
+        "84",
+        "98",
+        "112",
+        "120"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "q3",
+      "question": "A train travels 240 km in 4 hours. What is its average speed?",
+      "options": [
+        "50 km/h",
+        "60 km/h",
+        "70 km/h",
+        "80 km/h"
       ],
       "correct": 1
     },
     {
-      "id": "q3",
-      "question": "Find the odd one out.",
+      "id": "q4",
+      "question": "Which number is the odd one out?",
       "options": [
-        "Keyboard",
-        "Mouse",
-        "Monitor",
-        "Printer"
+        "16",
+        "25",
+        "36",
+        "45"
       ],
       "correct": 3
     },
     {
-      "id": "q4",
-      "question": "A person walks 5 km North, then 3 km East, then 5 km South. How far is he from the starting point?",
-      "options": [
-        "3 km",
-        "5 km",
-        "8 km",
-        "13 km"
-      ],
-      "correct": 0
-    },
-    {
       "id": "q5",
-      "question": "Which number replaces the question mark? 2, 6, 12, 20, ?, 42",
+      "question": "If all roses are flowers and some flowers are red, which statement is definitely true?",
       "options": [
-        "28",
-        "30",
-        "32",
-        "34"
+        "All roses are red",
+        "Some roses are flowers",
+        "All flowers are roses",
+        "No rose is red"
       ],
       "correct": 1
     },
     {
       "id": "q6",
-      "question": "A company hires 100 students. 60 know Python, 50 know Java, and 20 know both. How many know at least one language?",
+      "question": "A shopkeeper buys an item for ₹800 and sells it for ₹920. Find the profit percentage.",
       "options": [
-        "70",
-        "80",
-        "90",
-        "110"
+        "10%",
+        "12%",
+        "15%",
+        "20%"
       ],
       "correct": 2
     },
     {
       "id": "q7",
-      "question": "Which comes next? AZ, BY, CX, DW, ?",
+      "question": "Find the missing term: D, H, L, P, ?",
       "options": [
-        "EV",
-        "EU",
-        "FV",
-        "FW"
+        "R",
+        "S",
+        "T",
+        "U"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
       "id": "q8",
-      "question": "You have a 5-litre and 3-litre jug. How can you measure exactly 4 litres?",
+      "question": "A clock shows 3:15. What is the angle between the hour and minute hands?",
       "options": [
-        "Fill 5L and pour into 3L twice",
-        "Fill 5L, pour into 3L, empty 3L, transfer remaining 2L, fill 5L again",
-        "Fill only 3L",
-        "Impossible"
+        "0°",
+        "7.5°",
+        "15°",
+        "22.5°"
       ],
       "correct": 1
     },
     {
       "id": "q9",
-      "question": "A clock gains 2 minutes every hour. After 12 hours, how many minutes ahead will it be?",
+      "question": "A father is 30 years older than his son. If the son's age is 12 years, what will be the father's age after 8 years?",
       "options": [
-        "12",
-        "18",
-        "24",
-        "30"
+        "42",
+        "48",
+        "50",
+        "52"
       ],
       "correct": 2
     },
     {
       "id": "q10",
-      "question": "In a coding contest, Rank 1 gets 100 points, Rank 2 gets 90, Rank 3 gets 80. If Sree ranks 4th, how many points does he get?",
+      "question": "A basket contains 5 red, 4 blue, and 3 green balls. What is the minimum number of balls to pick to guarantee at least one ball of each color?",
       "options": [
-        "60",
-        "70",
-        "75",
-        "85"
+        "9",
+        "10",
+        "11",
+        "12"
       ],
       "correct": 1
     }
