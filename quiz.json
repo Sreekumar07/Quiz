@@ -1,123 +1,123 @@
 {
   "schemaVersion": "1.0",
-  "quizId": "12AUG2026COMM",
-  "title": "Placement Training Test - Communication Skills & Workplace Readiness",
-  "description": "Test your grammar, vocabulary, reading comprehension, workplace communication, and email etiquette skills.",
-  "duration": 10,
-  "startTime": "2026-08-12T00:00:00.000Z",
-  "endTime": "2026-08-12T23:59:59.000Z",
+  "quizId": "13AUG2026ANALYTICAL",
+  "title": "Placement Training Test - Analytical Reasoning & Critical Thinking",
+  "description": "A modern placement-style assessment focused on analytical thinking, decision making, workplace problem solving, and logical reasoning.",
+  "duration": 12,
+  "startTime": "2026-08-13T00:00:00.000Z",
+  "endTime": "2026-08-13T23:59:59.000Z",
   "passingMarks": 50,
   "shuffleQuestions": true,
   "negativeMarking": 0,
-  "solutionUrl": "https://example.com/solutions/communication-solutions.pdf",
+  "solutionUrl": "https://example.com/solutions/analytical-solutions.pdf",
   "questions": [
     {
       "id": "q1",
-      "question": "Identify the part containing the error: 'Each of the employees have submitted their weekly report on time.'",
+      "question": "A team has 5 members. Every member shakes hands with every other member exactly once. How many handshakes occur?",
       "options": [
-        "Each of the employees",
-        "have submitted",
-        "their weekly report",
-        "on time"
+        "5",
+        "10",
+        "15",
+        "20"
       ],
       "correct": 1
     },
     {
       "id": "q2",
-      "question": "If she ___ the training session, she would have performed better in the interview.",
+      "question": "A website receives 1000 visitors. 60% leave immediately. Of the remaining visitors, 50% sign up. How many users sign up?",
       "options": [
-        "attends",
-        "attended",
-        "had attended",
-        "has attended"
-      ],
-      "correct": 2
-    },
-    {
-      "id": "q3",
-      "question": "Choose the grammatically correct sentence.",
-      "options": [
-        "The manager as well as the employees are attending the meeting.",
-        "The manager as well as the employees is attending the meeting.",
-        "The manager and the employees is attending the meeting.",
-        "The manager along with employees were attending the meeting."
-      ],
-      "correct": 1
-    },
-    {
-      "id": "q4",
-      "question": "The candidate gave a concise explanation of the project during the interview. What does 'concise' mean?",
-      "options": [
-        "Very lengthy",
-        "Clear and brief",
-        "Difficult to understand",
-        "Emotional"
-      ],
-      "correct": 1
-    },
-    {
-      "id": "q5",
-      "question": "The team decided to ___ the project plan after receiving feedback from the client.",
-      "options": [
-        "revise",
-        "divide",
-        "remove",
-        "reduce"
+        "200",
+        "250",
+        "300",
+        "400"
       ],
       "correct": 0
     },
     {
-      "id": "q6",
-      "question": "Many employers value adaptability because workplace technologies and business requirements change frequently. Employees who are willing to learn new skills and adjust to changes often perform better and contribute more effectively to organizational goals. What is the main idea of the passage?",
+      "id": "q3",
+      "question": "A warehouse manager finds that Package A is heavier than Package B, and Package B is heavier than Package C. Which statement must be true?",
       "options": [
-        "Technology changes should be avoided",
-        "Adaptability is important for professional success",
-        "Employees should only focus on technical skills",
-        "Business requirements never change"
+        "Package A is heavier than Package C",
+        "Package C is heavier than Package A",
+        "Package A and Package C weigh the same",
+        "Cannot be determined"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "id": "q4",
+      "question": "A manager notices that project delays happen whenever requirements change. Which action best addresses the root cause?",
+      "options": [
+        "Work longer hours",
+        "Reduce team size",
+        "Improve the requirement management process",
+        "Increase meetings"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "q5",
+      "question": "Find the odd one out.",
+      "options": [
+        "Compiler",
+        "Interpreter",
+        "Debugger",
+        "Keyboard"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "q6",
+      "question": "A company has three teams: A, B, and C. Team A has more members than B. Team B has more members than C. Which statement is definitely true?",
+      "options": [
+        "Team A has more members than C",
+        "Team C has more members than A",
+        "Teams A and C have the same number of members",
+        "Cannot be determined"
+      ],
+      "correct": 0
     },
     {
       "id": "q7",
-      "question": "Priya was technically strong but often hesitated to ask questions when she was unsure about a task. After receiving guidance from her mentor, she became more proactive in seeking clarification and was able to complete assignments more accurately. What helped Priya improve her performance?",
+      "question": "A process takes 10 minutes manually and 4 minutes using automation. What percentage of time is saved?",
       "options": [
-        "Learning a new programming language",
-        "Working longer hours",
-        "Seeking clarification when needed",
-        "Avoiding difficult tasks"
+        "40%",
+        "50%",
+        "60%",
+        "70%"
       ],
       "correct": 2
     },
     {
       "id": "q8",
-      "question": "Your teammate misunderstands an important task and submits incorrect work. What is the most professional response?",
+      "question": "A customer reports a bug affecting payments. What should be your first priority?",
       "options": [
-        "Criticize them in front of the team",
-        "Ignore the issue completely",
-        "Discuss the misunderstanding respectfully and help correct it",
-        "Inform everyone that it was their mistake"
+        "Design new features",
+        "Investigate and resolve the payment issue",
+        "Update the company logo",
+        "Delay the response until next week"
       ],
-      "correct": 2
+      "correct": 1
     },
     {
       "id": "q9",
-      "question": "You are writing to a recruiter regarding your internship application. Which opening is most professional?",
+      "question": "A delivery team completed 80% of its assigned orders by 4 PM. The remaining orders are expected to take another 2 hours. Which conclusion is most reasonable?",
       "options": [
-        "Hey Recruiter,",
-        "Hi Buddy,",
-        "Dear Hiring Manager,",
-        "Hello Friend,"
+        "The team has completed all orders",
+        "The team may complete the remaining orders by around 6 PM",
+        "The team will definitely finish before 5 PM",
+        "The remaining orders have already been cancelled"
       ],
-      "correct": 2
+      "correct": 1
     },
     {
       "id": "q10",
-      "question": "Choose the most professional email closing.",
+      "question": "Your teammate submits incomplete work shortly before a deadline. What is the most professional response?",
       "options": [
-        "Bye",
-        "Thanks Bro",
-        "Regards, [Your Name]",
-        "See You Soon"
+        "Blame the teammate publicly",
+        "Ignore the issue",
+        "Work together to complete the missing parts and understand the problem",
+        "Report the teammate immediately without discussion"
       ],
       "correct": 2
     }
