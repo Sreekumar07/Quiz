@@ -1,125 +1,124 @@
 {
   "schemaVersion": "1.0",
-  "quizId": "13AUG2026APTITUDE",
-  "title": "Placement Training Test - Analytical Reasoning & Critical Thinking",
-  "description": "A modern placement-style assessment focused on analytical thinking, decision making, workplace problem solving, and logical reasoning.",
-  "duration": 10,
-  "startTime": "2026-08-13T00:00:00.000Z",
-  "endTime": "2026-08-13T23:59:59.000Z",
+  "quizId": "14AUG2026INFOSYSPLUS",
+  "title": "Placement Aptitude & Verbal Ability Test",
+  "description": "Infosys Style Quantitative Aptitude, Logical Reasoning, Analytical Thinking and Verbal Ability",
+  "duration": 15,
+  "startTime": "2026-08-14T00:00:00.000Z",
+  "endTime": "2026-08-14T23:59:59.000Z",
   "passingMarks": 50,
   "shuffleQuestions": true,
   "negativeMarking": 0,
-  "solutionUrl": "https://example.com/solutions/analytical-solutions.pdf",
   "questions": [
     {
       "id": "q1",
-      "question": "A team has 5 members. Every member shakes hands with every other member exactly once. How many handshakes occur?",
+      "question": "A company increased its employees by 20% and then reduced them by 20%. What is the net percentage change?",
       "options": [
-        "5",
-        "10",
-        "15",
-        "20"
+        "0%",
+        "4% decrease",
+        "4% increase",
+        "2% decrease"
       ],
       "correct": 1
     },
     {
       "id": "q2",
-      "question": "A website receives 1000 visitors. 60% leave immediately. Of the remaining visitors, 50% sign up. How many users sign up?",
+      "question": "If 8 men can complete a work in 15 days, how many men are needed to complete the same work in 10 days?",
       "options": [
-        "200",
-        "250",
-        "300",
-        "400"
-      ],
-      "correct": 0
-    },
-    {
-      "id": "q3",
-      "question": "A warehouse manager finds that Package A is heavier than Package B, and Package B is heavier than Package C. Which statement must be true?",
-      "options": [
-        "Package A is heavier than Package C",
-        "Package C is heavier than Package A",
-        "Package A and Package C weigh the same",
-        "Cannot be determined"
-      ],
-      "correct": 0
-    },
-    {
-      "id": "q4",
-      "question": "A manager notices that project delays happen whenever requirements change. Which action best addresses the root cause?",
-      "options": [
-        "Work longer hours",
-        "Reduce team size",
-        "Improve the requirement management process",
-        "Increase meetings"
-      ],
-      "correct": 2
-    },
-    {
-      "id": "q5",
-      "question": "Find the odd one out.",
-      "options": [
-        "Compiler",
-        "Interpreter",
-        "Debugger",
-        "Keyboard"
-      ],
-      "correct": 3
-    },
-    {
-      "id": "q6",
-      "question": "A company has three teams: A, B, and C. Team A has more members than B. Team B has more members than C. Which statement is definitely true?",
-      "options": [
-        "Team A has more members than C",
-        "Team C has more members than A",
-        "Teams A and C have the same number of members",
-        "Cannot be determined"
-      ],
-      "correct": 0
-    },
-    {
-      "id": "q7",
-      "question": "A process takes 10 minutes manually and 4 minutes using automation. What percentage of time is saved?",
-      "options": [
-        "40%",
-        "50%",
-        "60%",
-        "70%"
-      ],
-      "correct": 2
-    },
-    {
-      "id": "q8",
-      "question": "A customer reports a bug affecting payments. What should be your first priority?",
-      "options": [
-        "Design new features",
-        "Investigate and resolve the payment issue",
-        "Update the company logo",
-        "Delay the response until next week"
+        "10",
+        "12",
+        "14",
+        "16"
       ],
       "correct": 1
     },
     {
-      "id": "q9",
-      "question": "A delivery team completed 80% of its assigned orders by 4 PM. The remaining orders are expected to take another 2 hours. Which conclusion is most reasonable?",
+      "id": "q3",
+      "question": "Find the missing number: 4, 9, 19, 39, 79, ?",
       "options": [
-        "The team has completed all orders",
-        "The team may complete the remaining orders by around 6 PM",
-        "The team will definitely finish before 5 PM",
-        "The remaining orders have already been cancelled"
+        "149",
+        "159",
+        "169",
+        "179"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q4",
+      "question": "A train 240 m long crosses a pole in 12 seconds. What is its speed?",
+      "options": [
+        "60 km/h",
+        "72 km/h",
+        "80 km/h",
+        "90 km/h"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q5",
+      "question": "A coding team has 6 members. Every member shakes hands exactly once with every other member. How many handshakes occur in total?",
+      "options": [
+        "12",
+        "15",
+        "18",
+        "30"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q6",
+      "question": "A clock is 5 minutes fast. If it shows 3:25 PM, what is the actual time?",
+      "options": [
+        "3:15 PM",
+        "3:20 PM",
+        "3:25 PM",
+        "3:30 PM"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q7",
+      "question": "In a coding contest, A scored more than B, B scored more than C, and C scored more than D. Who scored the least?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "q8",
+      "question": "A bag contains 5 red, 4 blue and 3 green balls. What is the probability of drawing a blue ball?",
+      "options": [
+        "1/4",
+        "1/3",
+        "4/12",
+        "5/12"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "q9",
+      "question": "Choose the word closest in meaning to 'Diligent'.",
+      "options": [
+        "Lazy",
+        "Careful",
+        "Careless",
+        "Slow"
       ],
       "correct": 1
     },
     {
       "id": "q10",
-      "question": "Your teammate submits incomplete work shortly before a deadline. What is the most professional response?",
+      "question": "Choose the grammatically correct sentence.",
       "options": [
-        "Blame the teammate publicly",
-        "Ignore the issue",
-        "Work together to complete the missing parts and understand the problem",
-        "Report the teammate immediately without discussion"
+        "Each of the students have submitted their assignment.",
+        "Each of the students has submitted his or her assignment.",
+        "Each of the students have submitted his assignment.",
+        "Each of the students has submitted their assignment."
       ],
-      "correct": 2
+      "correct": 1
     }
   ]
 }
