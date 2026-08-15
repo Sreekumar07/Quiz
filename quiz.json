@@ -1,84 +1,95 @@
 {
   "schemaVersion": "1.0",
-  "quizId": "14AUG2026INFOSYS",
-  "title": "Placement Aptitude & Verbal Ability Test",
-  "description": "Infosys Style Quantitative Aptitude, Logical Reasoning, Analytical Thinking and Verbal Ability",
-  "duration": 10,
-  "startTime": "2026-08-14T00:00:00.000Z",
-  "endTime": "2026-08-14T23:59:59.000Z",
+  "quizId": "15AUG2026PLACEMENTPRO",
+  "title": "Placement Aptitude, Logical Reasoning & Verbal Ability Test",
+  "description": "Infosys, TCS, Accenture and Cognizant Style Placement Preparation Quiz",
+  "duration": 15,
+  "startTime": "2026-08-15T00:00:00.000Z",
+  "endTime": "2026-08-15T23:59:59.000Z",
   "passingMarks": 50,
   "shuffleQuestions": true,
   "negativeMarking": 0,
   "questions": [
     {
       "id": "q1",
-      "question": "A company increased its employees by 20% and then reduced them by 20%. What is the net percentage change?",
+      "question": "A shopkeeper marks an item 25% above cost price and gives a 10% discount. What is his profit percentage?",
       "options": [
-        "0%",
-        "4% decrease",
-        "4% increase",
-        "2% decrease"
+        "10%",
+        "12.5%",
+        "15%",
+        "20%"
       ],
       "correct": 1
     },
     {
       "id": "q2",
-      "question": "If 8 men can complete a work in 15 days, how many men are needed to complete the same work in 10 days?",
+      "question": "If 12 workers can complete a job in 18 days, how many workers are needed to complete it in 12 days?",
       "options": [
-        "10",
-        "12",
-        "14",
-        "16"
+        "16",
+        "18",
+        "20",
+        "24"
       ],
       "correct": 1
     },
     {
       "id": "q3",
-      "question": "Find the missing number: 4, 9, 19, 39, 79, ?",
+      "question": "A train travels 180 km in 3 hours. What is its speed?",
       "options": [
-        "149",
-        "159",
-        "169",
-        "179"
+        "50 km/h",
+        "55 km/h",
+        "60 km/h",
+        "65 km/h"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "q4",
-      "question": "A train 240 m long crosses a pole in 12 seconds. What is its speed?",
+      "question": "The average of 5 numbers is 24. If one number is removed, the average becomes 20. Find the removed number.",
       "options": [
-        "60 km/h",
-        "72 km/h",
-        "80 km/h",
-        "90 km/h"
+        "36",
+        "40",
+        "44",
+        "48"
       ],
       "correct": 1
     },
     {
       "id": "q5",
-      "question": "A coding team has 6 members. Every member shakes hands exactly once with every other member. How many handshakes occur in total?",
+      "question": "A sum doubles itself in 8 years at simple interest. In how many years will it become three times?",
       "options": [
         "12",
-        "15",
-        "18",
-        "30"
+        "14",
+        "16",
+        "18"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "q6",
-      "question": "A clock is 5 minutes fast. If it shows 3:25 PM, what is the actual time?",
+      "question": "Find the next number in the series: 2, 6, 12, 20, 30, ?",
       "options": [
-        "3:15 PM",
-        "3:20 PM",
-        "3:25 PM",
-        "3:30 PM"
+        "40",
+        "42",
+        "44",
+        "46"
       ],
       "correct": 1
     },
     {
       "id": "q7",
-      "question": "In a coding contest, A scored more than B, B scored more than C, and C scored more than D. Who scored the least?",
+      "question": "Find the next term: B, E, H, K, ?",
+      "options": [
+        "M",
+        "N",
+        "O",
+        "P"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q8",
+      "question": "A is taller than B. B is taller than C. D is taller than A. Who is the tallest?",
       "options": [
         "A",
         "B",
@@ -88,37 +99,81 @@
       "correct": 3
     },
     {
-      "id": "q8",
-      "question": "A bag contains 5 red, 4 blue and 3 green balls. What is the probability of drawing a blue ball?",
+      "id": "q9",
+      "question": "Find the odd one out.",
       "options": [
-        "1/4",
-        "1/3",
-        "4/12",
-        "5/12"
+        "Circle",
+        "Triangle",
+        "Rectangle",
+        "Cube"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "q10",
+      "question": "Find the missing term: AZ, BY, CX, DW, ?",
+      "options": [
+        "EV",
+        "EU",
+        "FV",
+        "FU"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q11",
+      "question": "A college placed 120 CSE, 90 ECE, 60 EEE and 30 MECH students. What percentage of placements belong to CSE?",
+      "options": [
+        "30%",
+        "40%",
+        "50%",
+        "60%"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q12",
+      "question": "Choose the synonym of 'Meticulous'.",
+      "options": [
+        "Careless",
+        "Precise",
+        "Lazy",
+        "Angry"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q13",
+      "question": "Choose the grammatically correct sentence.",
+      "options": [
+        "He don't know the answer.",
+        "He doesn't knows the answer.",
+        "He doesn't know the answer.",
+        "He not know the answer."
       ],
       "correct": 2
     },
     {
-      "id": "q9",
-      "question": "Choose the word closest in meaning to 'Diligent'.",
+      "id": "q14",
+      "question": "Fill in the blank: The manager insisted ___ reviewing the report.",
       "options": [
-        "Lazy",
-        "Careful",
-        "Careless",
-        "Slow"
+        "on",
+        "in",
+        "at",
+        "with"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
-      "id": "q10",
-      "question": "Choose the grammatically correct sentence.",
+      "id": "q15",
+      "question": "Choose the antonym of 'Abundant'.",
       "options": [
-        "Each of the students have submitted their assignment.",
-        "Each of the students has submitted his or her assignment.",
-        "Each of the students have submitted his assignment.",
-        "Each of the students has submitted their assignment."
+        "Plenty",
+        "Sufficient",
+        "Scarce",
+        "Ample"
       ],
-      "correct": 1
+      "correct": 2
     }
   ]
 }
