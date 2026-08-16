@@ -1,179 +1,179 @@
 {
   "schemaVersion": "1.0",
-  "quizId": "15AUG2026PLACEMENTPRO",
-  "title": "Placement Aptitude, Logical Reasoning & Verbal Ability Test",
-  "description": "Infosys, TCS, Accenture and Cognizant Style Placement Preparation Quiz",
-  "duration": 15,
-  "startTime": "2026-08-15T00:00:00.000Z",
-  "endTime": "2026-08-15T23:59:59.000Z",
+  "quizId": "16AUG2026PLACEMENTPRO",
+  "title": "Placement Aptitude, Logical Reasoning & Verbal Ability Test - Day 11",
+  "description": "Modern placement-style assessment covering quantitative aptitude, analytical reasoning, verbal ability, and workplace problem solving.",
+  "duration": 10,
+  "startTime": "2026-08-16T00:00:00.000Z",
+  "endTime": "2026-08-16T23:59:59.000Z",
   "passingMarks": 50,
   "shuffleQuestions": true,
   "negativeMarking": 0,
   "questions": [
     {
       "id": "q1",
-      "question": "A shopkeeper marks an item 25% above cost price and gives a 10% discount. What is his profit percentage?",
+      "question": "A product's price is increased by 25%. By what percentage must the increased price be reduced to return to the original price?",
       "options": [
-        "10%",
-        "12.5%",
         "15%",
-        "20%"
+        "20%",
+        "22.5%",
+        "25%"
       ],
       "correct": 1
     },
     {
       "id": "q2",
-      "question": "If 12 workers can complete a job in 18 days, how many workers are needed to complete it in 12 days?",
+      "question": "A train covers the first half of a journey at 40 km/h and the second half at 60 km/h. What is its average speed for the entire journey?",
       "options": [
-        "16",
-        "18",
-        "20",
-        "24"
+        "45 km/h",
+        "48 km/h",
+        "50 km/h",
+        "52 km/h"
       ],
       "correct": 1
     },
     {
       "id": "q3",
-      "question": "A train travels 180 km in 3 hours. What is its speed?",
+      "question": "Five students A, B, C, D, and E are standing in a line. A is ahead of B, B is ahead of C, and D is behind E. Which arrangement satisfies all the conditions?",
       "options": [
-        "50 km/h",
-        "55 km/h",
-        "60 km/h",
-        "65 km/h"
-      ],
-      "correct": 2
-    },
-    {
-      "id": "q4",
-      "question": "The average of 5 numbers is 24. If one number is removed, the average becomes 20. Find the removed number.",
-      "options": [
-        "36",
-        "40",
-        "44",
-        "48"
-      ],
-      "correct": 1
-    },
-    {
-      "id": "q5",
-      "question": "A sum doubles itself in 8 years at simple interest. In how many years will it become three times?",
-      "options": [
-        "12",
-        "14",
-        "16",
-        "18"
-      ],
-      "correct": 2
-    },
-    {
-      "id": "q6",
-      "question": "Find the next number in the series: 2, 6, 12, 20, 30, ?",
-      "options": [
-        "40",
-        "42",
-        "44",
-        "46"
-      ],
-      "correct": 1
-    },
-    {
-      "id": "q7",
-      "question": "Find the next term: B, E, H, K, ?",
-      "options": [
-        "M",
-        "N",
-        "O",
-        "P"
-      ],
-      "correct": 1
-    },
-    {
-      "id": "q8",
-      "question": "A is taller than B. B is taller than C. D is taller than A. Who is the tallest?",
-      "options": [
-        "A",
-        "B",
-        "C",
-        "D"
-      ],
-      "correct": 3
-    },
-    {
-      "id": "q9",
-      "question": "Find the odd one out.",
-      "options": [
-        "Circle",
-        "Triangle",
-        "Rectangle",
-        "Cube"
-      ],
-      "correct": 3
-    },
-    {
-      "id": "q10",
-      "question": "Find the missing term: AZ, BY, CX, DW, ?",
-      "options": [
-        "EV",
-        "EU",
-        "FV",
-        "FU"
+        "A B C E D",
+        "B A C E D",
+        "A C B E D",
+        "A B C D E"
       ],
       "correct": 0
     },
     {
-      "id": "q11",
-      "question": "A college placed 120 CSE, 90 ECE, 60 EEE and 30 MECH students. What percentage of placements belong to CSE?",
+      "id": "q4",
+      "question": "A student scored 72, 68, 81, and 79 in four tests. What score is needed in the fifth test to obtain an average of 75?",
       "options": [
-        "30%",
-        "40%",
-        "50%",
-        "60%"
+        "70",
+        "72",
+        "75",
+        "78"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "q5",
+      "question": "A team must choose exactly two projects from four projects: P, Q, R, and S. P and Q cannot be selected together. If R is selected, S must also be selected. Which pair is valid?",
+      "options": [
+        "P and Q",
+        "P and R",
+        "Q and R",
+        "P and S"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "q6",
+      "question": "Choose the word that best completes the sentence: The manager asked the team to remain ___ while dealing with the unexpected client request.",
+      "options": [
+        "composed",
+        "confused",
+        "careless",
+        "reluctant"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q7",
+      "question": "A software team receives three bug reports. Bug X prevents users from logging in, Bug Y changes the color of a button, and Bug Z affects a rarely used report. Which should normally receive the highest priority?",
+      "options": [
+        "Bug X",
+        "Bug Y",
+        "Bug Z",
+        "All three equally"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q8",
+      "question": "A company has 240 applicants. 30% are shortlisted after the first screening, and half of the shortlisted candidates pass the next round. How many candidates reach the final round?",
+      "options": [
+        "24",
+        "30",
+        "36",
+        "42"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "q9",
+      "question": "A team completes its weekly tasks on time, but repeated mistakes require additional rework. Which improvement would most directly address the problem?",
+      "options": [
+        "Increase the number of meetings",
+        "Improve the review and quality-check process",
+        "Reduce the number of tasks assigned",
+        "Shorten the deadlines"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q10",
+      "question": "An email to a placement coordinator needs to request permission to attend an interview during class hours. Which sentence is most professional?",
+      "options": [
+        "I won't be in class, so please manage it.",
+        "I have an interview during class and need permission to attend it. I would appreciate your approval.",
+        "I am going for an interview, so I will miss class.",
+        "Let me attend the interview because it is important."
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q11",
+      "question": "A delivery team completed 80% of its assigned orders by 4 PM. The remaining orders are expected to take another 2 hours. Which conclusion is most reasonable?",
+      "options": [
+        "The team has completed all orders",
+        "The team may complete the remaining orders by around 6 PM",
+        "The team will definitely finish before 5 PM",
+        "The remaining orders have already been cancelled"
       ],
       "correct": 1
     },
     {
       "id": "q12",
-      "question": "Choose the synonym of 'Meticulous'.",
+      "question": "A password consists of 3 different digits chosen from 0 to 9. How many possible passwords can be formed if the first digit cannot be 0?",
       "options": [
-        "Careless",
-        "Precise",
-        "Lazy",
-        "Angry"
-      ],
-      "correct": 1
-    },
-    {
-      "id": "q13",
-      "question": "Choose the grammatically correct sentence.",
-      "options": [
-        "He don't know the answer.",
-        "He doesn't knows the answer.",
-        "He doesn't know the answer.",
-        "He not know the answer."
-      ],
-      "correct": 2
-    },
-    {
-      "id": "q14",
-      "question": "Fill in the blank: The manager insisted ___ reviewing the report.",
-      "options": [
-        "on",
-        "in",
-        "at",
-        "with"
+        "648",
+        "720",
+        "810",
+        "900"
       ],
       "correct": 0
     },
     {
-      "id": "q15",
-      "question": "Choose the antonym of 'Abundant'.",
+      "id": "q13",
+      "question": "A company receives 500 applications. 40% pass the first screening. Of those shortlisted, 25% are invited for an interview. How many candidates are invited?",
       "options": [
-        "Plenty",
-        "Sufficient",
-        "Scarce",
-        "Ample"
+        "40",
+        "50",
+        "75",
+        "100"
       ],
-      "correct": 2
+      "correct": 3
+    },
+    {
+      "id": "q14",
+      "question": "Choose the grammatically correct sentence.",
+      "options": [
+        "The team have completed its project.",
+        "The team has completed its project.",
+        "The team has complete its project.",
+        "The team completing its project."
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q15",
+      "question": "Choose the word closest in meaning to 'resilient'.",
+      "options": [
+        "Easily discouraged",
+        "Able to recover from difficulties",
+        "Unwilling to change",
+        "Extremely careless"
+      ],
+      "correct": 1
     }
   ]
 }
