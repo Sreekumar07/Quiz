@@ -1,9 +1,9 @@
 {
   "schemaVersion": "1.0",
-  "quizId": "16AUG2026PLACEMENTPRO",
+  "quizId": "16AUG2026PLACEMENT",
   "title": "Placement Aptitude, Logical Reasoning & Verbal Ability Test - Day 11",
-  "description": "Modern placement-style assessment covering quantitative aptitude, analytical reasoning, verbal ability, and workplace problem solving.",
-  "duration": 10,
+  "description": "A short modern placement-style assessment covering quantitative aptitude, analytical reasoning, verbal ability, and workplace problem solving.",
+  "duration": 8,
   "startTime": "2026-08-16T00:00:00.000Z",
   "endTime": "2026-08-16T23:59:59.000Z",
   "passingMarks": 50,
@@ -56,7 +56,7 @@
     },
     {
       "id": "q5",
-      "question": "A team must choose exactly two projects from four projects: P, Q, R, and S. P and Q cannot be selected together. If R is selected, S must also be selected. Which pair is valid?",
+      "question": "A team must choose exactly two projects from P, Q, R, and S. P and Q cannot be selected together. If R is selected, S must also be selected. Which pair is valid?",
       "options": [
         "P and Q",
         "P and R",
@@ -117,61 +117,6 @@
         "I have an interview during class and need permission to attend it. I would appreciate your approval.",
         "I am going for an interview, so I will miss class.",
         "Let me attend the interview because it is important."
-      ],
-      "correct": 1
-    },
-    {
-      "id": "q11",
-      "question": "A delivery team completed 80% of its assigned orders by 4 PM. The remaining orders are expected to take another 2 hours. Which conclusion is most reasonable?",
-      "options": [
-        "The team has completed all orders",
-        "The team may complete the remaining orders by around 6 PM",
-        "The team will definitely finish before 5 PM",
-        "The remaining orders have already been cancelled"
-      ],
-      "correct": 1
-    },
-    {
-      "id": "q12",
-      "question": "A password consists of 3 different digits chosen from 0 to 9. How many possible passwords can be formed if the first digit cannot be 0?",
-      "options": [
-        "648",
-        "720",
-        "810",
-        "900"
-      ],
-      "correct": 0
-    },
-    {
-      "id": "q13",
-      "question": "A company receives 500 applications. 40% pass the first screening. Of those shortlisted, 25% are invited for an interview. How many candidates are invited?",
-      "options": [
-        "40",
-        "50",
-        "75",
-        "100"
-      ],
-      "correct": 3
-    },
-    {
-      "id": "q14",
-      "question": "Choose the grammatically correct sentence.",
-      "options": [
-        "The team have completed its project.",
-        "The team has completed its project.",
-        "The team has complete its project.",
-        "The team completing its project."
-      ],
-      "correct": 1
-    },
-    {
-      "id": "q15",
-      "question": "Choose the word closest in meaning to 'resilient'.",
-      "options": [
-        "Easily discouraged",
-        "Able to recover from difficulties",
-        "Unwilling to change",
-        "Extremely careless"
       ],
       "correct": 1
     }
