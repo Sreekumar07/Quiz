@@ -12,7 +12,7 @@
   "negativeMarking": 0,
   "showCorrectAnswers": true,
   "downloadAnswerScript": true,
-  "solutionUrl": "Day12.pdf",
+  "solutionUrl": "https://raw.githubusercontent.com/Sreekumar07/Quiz/main/Day12.pdf",
   "questions": [
     {
       "id": "q1",
