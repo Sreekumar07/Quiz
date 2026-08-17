@@ -1,124 +1,128 @@
 {
   "schemaVersion": "1.0",
-  "quizId": "16AUG2026PLACEMENT",
-  "title": "Placement Aptitude, Logical Reasoning & Verbal Ability Test - Day 11",
-  "description": "A short modern placement-style assessment covering quantitative aptitude, analytical reasoning, verbal ability, and workplace problem solving.",
+  "quizId": "17AUG2026PLACEMENTPRO",
+  "title": "Placement Training Test - Aptitude, Reasoning & Workplace Skills",
+  "description": "A fast-paced placement assessment covering quantitative reasoning, logical thinking, verbal ability, and workplace decision making.",
   "duration": 8,
-  "startTime": "2026-08-16T00:00:00.000Z",
-  "endTime": "2026-08-16T23:59:59.000Z",
+  "startTime": "2026-08-17T00:00:00.000Z",
+  "endTime": "2026-08-17T23:59:59.000Z",
   "passingMarks": 50,
   "shuffleQuestions": true,
+  "shuffleOptions": true,
   "negativeMarking": 0,
+  "showCorrectAnswers": true,
+  "downloadAnswerScript": true,
+  "solutionUrl": "https://example.com/solutions/17AUG2026-answer-script.pdf",
   "questions": [
     {
       "id": "q1",
-      "question": "A product's price is increased by 25%. By what percentage must the increased price be reduced to return to the original price?",
+      "question": "A company's monthly sales increase from ₹80,000 to ₹92,000. What is the percentage increase in sales?",
       "options": [
+        "12%",
         "15%",
-        "20%",
-        "22.5%",
-        "25%"
+        "18%",
+        "20%"
       ],
       "correct": 1
     },
     {
       "id": "q2",
-      "question": "A train covers the first half of a journey at 40 km/h and the second half at 60 km/h. What is its average speed for the entire journey?",
+      "question": "A project has three tasks. Task A must be completed before B, and B must be completed before C. Which order is valid?",
       "options": [
-        "45 km/h",
-        "48 km/h",
-        "50 km/h",
-        "52 km/h"
+        "B → A → C",
+        "C → B → A",
+        "A → B → C",
+        "A → C → B"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "q3",
+      "question": "A box contains 4 red, 5 blue, and 6 green balls. Without looking, what is the minimum number of balls that must be picked to guarantee getting two balls of the same color?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
       ],
       "correct": 1
     },
     {
-      "id": "q3",
-      "question": "Five students A, B, C, D, and E are standing in a line. A is ahead of B, B is ahead of C, and D is behind E. Which arrangement satisfies all the conditions?",
-      "options": [
-        "A B C E D",
-        "B A C E D",
-        "A C B E D",
-        "A B C D E"
-      ],
-      "correct": 0
-    },
-    {
       "id": "q4",
-      "question": "A student scored 72, 68, 81, and 79 in four tests. What score is needed in the fifth test to obtain an average of 75?",
+      "question": "A candidate scores 70, 75, 80, and 85 in four assessments. What score is required in the fifth assessment to obtain an overall average of 80?",
       "options": [
-        "70",
-        "72",
-        "75",
-        "78"
+        "85",
+        "88",
+        "90",
+        "95"
       ],
       "correct": 2
     },
     {
       "id": "q5",
-      "question": "A team must choose exactly two projects from P, Q, R, and S. P and Q cannot be selected together. If R is selected, S must also be selected. Which pair is valid?",
+      "question": "A company has four employees: P, Q, R, and S. P is more experienced than Q. R is less experienced than Q but more experienced than S. Who is the least experienced?",
       "options": [
-        "P and Q",
-        "P and R",
-        "Q and R",
-        "P and S"
+        "P",
+        "Q",
+        "R",
+        "S"
       ],
       "correct": 3
     },
     {
       "id": "q6",
-      "question": "Choose the word that best completes the sentence: The manager asked the team to remain ___ while dealing with the unexpected client request.",
+      "question": "Choose the word closest in meaning to 'pragmatic'.",
       "options": [
-        "composed",
-        "confused",
-        "careless",
-        "reluctant"
+        "Practical",
+        "Emotional",
+        "Careless",
+        "Uncertain"
       ],
       "correct": 0
     },
     {
       "id": "q7",
-      "question": "A software team receives three bug reports. Bug X prevents users from logging in, Bug Y changes the color of a button, and Bug Z affects a rarely used report. Which should normally receive the highest priority?",
+      "question": "A team discovers that a critical feature fails only when a particular input condition occurs. What is the best first step?",
       "options": [
-        "Bug X",
-        "Bug Y",
-        "Bug Z",
-        "All three equally"
+        "Ignore the issue until users complain",
+        "Reproduce the issue and identify the triggering condition",
+        "Rewrite the entire application",
+        "Remove the feature immediately"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q8",
-      "question": "A company has 240 applicants. 30% are shortlisted after the first screening, and half of the shortlisted candidates pass the next round. How many candidates reach the final round?",
+      "question": "A company has 600 employees. 35% work remotely. How many employees work from the office?",
       "options": [
-        "24",
-        "30",
-        "36",
-        "42"
+        "360",
+        "390",
+        "410",
+        "420"
       ],
-      "correct": 2
+      "correct": 1
     },
     {
       "id": "q9",
-      "question": "A team completes its weekly tasks on time, but repeated mistakes require additional rework. Which improvement would most directly address the problem?",
+      "question": "Choose the grammatically correct sentence.",
       "options": [
-        "Increase the number of meetings",
-        "Improve the review and quality-check process",
-        "Reduce the number of tasks assigned",
-        "Shorten the deadlines"
+        "Neither the manager nor the employees was available.",
+        "Neither the manager nor the employees were available.",
+        "Neither the manager or the employees were available.",
+        "Neither manager nor employees was available."
       ],
       "correct": 1
     },
     {
       "id": "q10",
-      "question": "An email to a placement coordinator needs to request permission to attend an interview during class hours. Which sentence is most professional?",
+      "question": "You are working on a team project and realize you may miss an important deadline. What is the most professional action?",
       "options": [
-        "I won't be in class, so please manage it.",
-        "I have an interview during class and need permission to attend it. I would appreciate your approval.",
-        "I am going for an interview, so I will miss class.",
-        "Let me attend the interview because it is important."
+        "Wait until the deadline passes before informing anyone.",
+        "Hide the delay and submit incomplete work.",
+        "Inform the team early, explain the issue, and suggest a revised plan.",
+        "Blame another team member for the delay."
       ],
-      "correct": 1
+      "correct": 2
     }
   ]
 }
