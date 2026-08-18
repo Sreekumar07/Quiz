@@ -1,126 +1,126 @@
 {
   "schemaVersion": "1.0",
-  "quizId": "17AUG2026PLACEMENT",
-  "title": "Placement Training Test - Aptitude, Reasoning & Workplace Skills",
-  "description": "A fast-paced placement assessment covering quantitative reasoning, logical thinking, verbal ability, and workplace decision making.",
+  "quizId": "18AUG2026VERBALLOGIC",
+  "title": "Placement Training Test - Verbal Ability & Logical Reasoning",
+  "description": "A focused placement-style assessment covering verbal ability, logical reasoning, critical thinking, and professional communication.",
   "duration": 8,
-  "startTime": "2026-08-17T00:00:00.000Z",
-  "endTime": "2026-08-17T23:59:59.000Z",
+  "startTime": "2026-08-18T00:00:00+05:30",
+  "endTime": "2026-08-18T23:59:59+05:30",
   "passingMarks": 50,
   "shuffleQuestions": true,
   "shuffleOptions": true,
   "negativeMarking": 0,
   "showCorrectAnswers": true,
   "downloadAnswerScript": true,
-  "solutionUrl": "https://raw.githubusercontent.com/Sreekumar07/Quiz/main/Day12.pdf",
+  "solutionUrl": "https://raw.githubusercontent.com/Sreekumar07/Quiz/main/Day13.pdf",
   "questions": [
     {
       "id": "q1",
-      "question": "A company's monthly sales increase from ₹80,000 to ₹92,000. What is the percentage increase in sales?",
+      "question": "Choose the sentence that best expresses the meaning of: \"The proposal was rejected because it was not feasible.\"",
       "options": [
-        "12%",
-        "15%",
-        "18%",
-        "20%"
+        "The proposal was rejected because it was too expensive to implement.",
+        "The proposal was rejected because it was not practical to implement.",
+        "The proposal was rejected because nobody understood it.",
+        "The proposal was rejected because it was submitted late."
       ],
       "correct": 1
     },
     {
       "id": "q2",
-      "question": "A project has three tasks. Task A must be completed before B, and B must be completed before C. Which order is valid?",
+      "question": "The manager's explanation was so ___ that even a complex technical issue became easy to understand.",
       "options": [
-        "B → A → C",
-        "C → B → A",
-        "A → B → C",
-        "A → C → B"
-      ],
-      "correct": 2
-    },
-    {
-      "id": "q3",
-      "question": "A box contains 4 red, 5 blue, and 6 green balls. Without looking, what is the minimum number of balls that must be picked to guarantee getting two balls of the same color?",
-      "options": [
-        "3",
-        "4",
-        "5",
-        "6"
+        "ambiguous",
+        "lucid",
+        "redundant",
+        "reluctant"
       ],
       "correct": 1
     },
     {
-      "id": "q4",
-      "question": "A candidate scores 70, 75, 80, and 85 in four assessments. What score is required in the fifth assessment to obtain an overall average of 80?",
+      "id": "q3",
+      "question": "Read the statement: \"All employees who completed the training received certificates. Maya did not receive a certificate.\" What can be logically concluded?",
       "options": [
-        "85",
-        "88",
-        "90",
-        "95"
+        "Maya definitely did not attend the training.",
+        "Maya definitely failed the training.",
+        "Maya did not complete the training.",
+        "Maya was absent from the company."
       ],
       "correct": 2
     },
     {
-      "id": "q5",
-      "question": "A company has four employees: P, Q, R, and S. P is more experienced than Q. R is less experienced than Q but more experienced than S. Who is the least experienced?",
+      "id": "q4",
+      "question": "Choose the grammatically correct sentence.",
       "options": [
-        "P",
-        "Q",
-        "R",
-        "S"
+        "No sooner the meeting started than the internet stopped working.",
+        "No sooner had the meeting started than the internet stopped working.",
+        "No sooner did the meeting started than the internet stopped working.",
+        "No sooner the meeting had started when the internet stopped working."
       ],
-      "correct": 3
+      "correct": 1
+    },
+    {
+      "id": "q5",
+      "question": "Five presentations — P, Q, R, S and T — are scheduled one after another. P must be before R. S must be immediately before T. Which arrangement is possible?",
+      "options": [
+        "R P S T Q",
+        "Q P R S T",
+        "S T R P Q",
+        "P S R T Q"
+      ],
+      "correct": 1
     },
     {
       "id": "q6",
-      "question": "Choose the word closest in meaning to 'pragmatic'.",
+      "question": "A company observes that teams using a documented checklist make fewer deployment errors than teams that do not use one. Which conclusion is best supported?",
       "options": [
-        "Practical",
-        "Emotional",
-        "Careless",
-        "Uncertain"
+        "A checklist guarantees that no deployment errors will occur.",
+        "Using a checklist may help reduce deployment errors.",
+        "Teams without checklists cannot deploy software successfully.",
+        "Deployment errors are caused only by documentation."
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q7",
-      "question": "A team discovers that a critical feature fails only when a particular input condition occurs. What is the best first step?",
+      "question": "Choose the option that best completes the analogy: \"Blueprint : Building :: Algorithm : ?\"",
       "options": [
-        "Ignore the issue until users complain",
-        "Reproduce the issue and identify the triggering condition",
-        "Rewrite the entire application",
-        "Remove the feature immediately"
+        "Database",
+        "Program",
+        "Keyboard",
+        "Network"
       ],
       "correct": 1
     },
     {
       "id": "q8",
-      "question": "A company has 600 employees. 35% work remotely. How many employees work from the office?",
+      "question": "A, B, C and D each have a different role: Developer, Designer, Tester and Analyst. A is not the Developer or Tester. B is the Analyst. C is not the Designer. D is the Tester. What role does A have?",
       "options": [
-        "360",
-        "390",
-        "410",
-        "420"
+        "Developer",
+        "Designer",
+        "Tester",
+        "Analyst"
       ],
       "correct": 1
     },
     {
       "id": "q9",
-      "question": "Choose the grammatically correct sentence.",
+      "question": "Choose the sentence with the most appropriate professional tone for an email.",
       "options": [
-        "Neither the manager nor the employees was available.",
-        "Neither the manager nor the employees were available.",
-        "Neither the manager or the employees were available.",
-        "Neither manager nor employees was available."
+        "Send me the report now because I need it.",
+        "I need the report immediately. Please don't delay.",
+        "Could you please share the updated report when convenient?",
+        "Why haven't you sent the report yet?"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "q10",
-      "question": "You are working on a team project and realize you may miss an important deadline. What is the most professional action?",
+      "question": "A team has completed a project successfully, but the client requests one additional feature before the final release. What is the most logical first action?",
       "options": [
-        "Wait until the deadline passes before informing anyone.",
-        "Hide the delay and submit incomplete work.",
-        "Inform the team early, explain the issue, and suggest a revised plan.",
-        "Blame another team member for the delay."
+        "Immediately implement the feature without discussion.",
+        "Reject the client's request because the project is already complete.",
+        "Understand the requirement, assess its impact, and then estimate the additional work.",
+        "Ask the client to find another team."
       ],
       "correct": 2
     }
