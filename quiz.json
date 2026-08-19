@@ -1,126 +1,126 @@
 {
   "schemaVersion": "1.0",
-  "quizId": "18AUG2026",
-  "title": "Placement Training Test - Verbal Ability & Logical Reasoning",
-  "description": "A focused placement-style assessment covering verbal ability, logical reasoning, critical thinking, and professional communication.",
+  "quizId": "19AUG2026VERBALLOGIC",
+  "title": "Placement Training Test - Verbal Ability & Logical Reasoning - Day 14",
+  "description": "A placement-style assessment focused on verbal ability, logical deduction, analytical reasoning, critical thinking, and professional communication.",
   "duration": 8,
-  "startTime": "2026-08-18T00:00:00+05:30",
-  "endTime": "2026-08-18T23:59:59+05:30",
+  "startTime": "2026-08-19T00:00:00+05:30",
+  "endTime": "2026-08-19T23:59:59+05:30",
   "passingMarks": 50,
   "shuffleQuestions": true,
   "shuffleOptions": true,
   "negativeMarking": 0,
   "showCorrectAnswers": true,
   "downloadAnswerScript": true,
-  "solutionUrl": "https://raw.githubusercontent.com/Sreekumar07/Quiz/main/Day13.pdf",
+  "solutionUrl": "https://raw.githubusercontent.com/Sreekumar07/Quiz/main/Day14.pdf",
   "questions": [
     {
       "id": "q1",
-      "question": "Choose the sentence that best expresses the meaning of: \"The proposal was rejected because it was not feasible.\"",
+      "question": "Choose the word that best completes the sentence: The candidate gave a ___ explanation, covering every important point without unnecessary details.",
       "options": [
-        "The proposal was rejected because it was too expensive to implement.",
-        "The proposal was rejected because it was not practical to implement.",
-        "The proposal was rejected because nobody understood it.",
-        "The proposal was rejected because it was submitted late."
+        "concise",
+        "vague",
+        "biased",
+        "hesitant"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "id": "q2",
-      "question": "The manager's explanation was so ___ that even a complex technical issue became easy to understand.",
+      "question": "If all successful applicants submitted their documents, and Ravi did not submit his documents, what can be concluded based only on these statements?",
       "options": [
-        "ambiguous",
-        "lucid",
-        "redundant",
-        "reluctant"
-      ],
-      "correct": 1
-    },
-    {
-      "id": "q3",
-      "question": "Read the statement: \"All employees who completed the training received certificates. Maya did not receive a certificate.\" What can be logically concluded?",
-      "options": [
-        "Maya definitely did not attend the training.",
-        "Maya definitely failed the training.",
-        "Maya did not complete the training.",
-        "Maya was absent from the company."
+        "Ravi was definitely unsuccessful.",
+        "Ravi was definitely rejected.",
+        "Ravi cannot be confirmed as a successful applicant.",
+        "Ravi did not attend the interview."
       ],
       "correct": 2
     },
     {
-      "id": "q4",
-      "question": "Choose the grammatically correct sentence.",
+      "id": "q3",
+      "question": "Choose the sentence that is grammatically correct.",
       "options": [
-        "No sooner the meeting started than the internet stopped working.",
-        "No sooner had the meeting started than the internet stopped working.",
-        "No sooner did the meeting started than the internet stopped working.",
-        "No sooner the meeting had started when the internet stopped working."
+        "Each of the students have submitted their resume.",
+        "Each of the students has submitted their resume.",
+        "Each students has submitted their resume.",
+        "Each of the student have submitted their resume."
       ],
       "correct": 1
     },
     {
-      "id": "q5",
-      "question": "Five presentations — P, Q, R, S and T — are scheduled one after another. P must be before R. S must be immediately before T. Which arrangement is possible?",
+      "id": "q4",
+      "question": "Four people P, Q, R and S are standing in a line. P is to the left of Q. R is to the right of Q. S is to the left of P. Who is at the extreme left?",
       "options": [
-        "R P S T Q",
-        "Q P R S T",
-        "S T R P Q",
-        "P S R T Q"
+        "P",
+        "Q",
+        "R",
+        "S"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "q5",
+      "question": "Statement: 'The company introduced flexible working hours, and employee satisfaction increased significantly.' Which conclusion is most reasonable?",
+      "options": [
+        "Flexible working hours are the only reason for employee satisfaction.",
+        "Flexible working hours may have contributed to increased satisfaction.",
+        "Every employee prefers flexible working hours.",
+        "Employee satisfaction always increases when working hours change."
       ],
       "correct": 1
     },
     {
       "id": "q6",
-      "question": "A company observes that teams using a documented checklist make fewer deployment errors than teams that do not use one. Which conclusion is best supported?",
+      "question": "Choose the word closest in meaning to 'substantiate'.",
       "options": [
-        "A checklist guarantees that no deployment errors will occur.",
-        "Using a checklist may help reduce deployment errors.",
-        "Teams without checklists cannot deploy software successfully.",
-        "Deployment errors are caused only by documentation."
+        "Ignore",
+        "Support with evidence",
+        "Question repeatedly",
+        "Simplify"
       ],
       "correct": 1
     },
     {
       "id": "q7",
-      "question": "Choose the option that best completes the analogy: \"Blueprint : Building :: Algorithm : ?\"",
+      "question": "Five tasks A, B, C, D and E must be completed in order. A must occur before C. B must occur before D. E must be the last task. Which sequence is possible?",
       "options": [
-        "Database",
-        "Program",
-        "Keyboard",
-        "Network"
+        "C A B D E",
+        "B D A C E",
+        "A C E B D",
+        "D B A C E"
       ],
       "correct": 1
     },
     {
       "id": "q8",
-      "question": "A, B, C and D each have a different role: Developer, Designer, Tester and Analyst. A is not the Developer or Tester. B is the Analyst. C is not the Designer. D is the Tester. What role does A have?",
+      "question": "A statement says: 'Some developers are designers. All designers are creative.' Which conclusion definitely follows?",
       "options": [
-        "Developer",
-        "Designer",
-        "Tester",
-        "Analyst"
+        "All developers are creative.",
+        "Some developers are creative.",
+        "No developers are creative.",
+        "All creative people are developers."
       ],
       "correct": 1
     },
     {
       "id": "q9",
-      "question": "Choose the sentence with the most appropriate professional tone for an email.",
+      "question": "Which response is most appropriate when you disagree with a teammate's idea during a professional discussion?",
       "options": [
-        "Send me the report now because I need it.",
-        "I need the report immediately. Please don't delay.",
-        "Could you please share the updated report when convenient?",
-        "Why haven't you sent the report yet?"
+        "Your idea is completely wrong.",
+        "I don't agree, so let's ignore it.",
+        "I see your point. However, could we also consider another approach?",
+        "Everyone knows my approach is better."
       ],
       "correct": 2
     },
     {
       "id": "q10",
-      "question": "A team has completed a project successfully, but the client requests one additional feature before the final release. What is the most logical first action?",
+      "question": "A project team notices that a task repeatedly takes longer than estimated. What is the best analytical response?",
       "options": [
-        "Immediately implement the feature without discussion.",
-        "Reject the client's request because the project is already complete.",
-        "Understand the requirement, assess its impact, and then estimate the additional work.",
-        "Ask the client to find another team."
+        "Keep using the same estimate without investigation.",
+        "Blame the person performing the task.",
+        "Examine previous tasks, identify the cause of the delay, and improve future estimates.",
+        "Remove the task from the project."
       ],
       "correct": 2
     }
