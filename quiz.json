@@ -1,126 +1,126 @@
 {
   "schemaVersion": "1.0",
-  "quizId": "19AUG2026VERBALLOGIC",
-  "title": "Placement Training Test - Verbal Ability & Logical Reasoning - Day 14",
-  "description": "A placement-style assessment focused on verbal ability, logical deduction, analytical reasoning, critical thinking, and professional communication.",
+  "quizId": "20AUG2026",
+  "title": "Placement Training Test - Verbal Ability & Logical Reasoning - Day 15",
+  "description": "A fresh placement-style assessment focused on verbal ability, logical reasoning, analytical thinking, critical reasoning, and professional communication.",
   "duration": 8,
-  "startTime": "2026-08-19T00:00:00+05:30",
-  "endTime": "2026-08-19T23:59:59+05:30",
+  "startTime": "2026-08-20T00:00:00+05:30",
+  "endTime": "2026-08-20T23:59:59+05:30",
   "passingMarks": 50,
   "shuffleQuestions": true,
   "shuffleOptions": true,
   "negativeMarking": 0,
   "showCorrectAnswers": true,
   "downloadAnswerScript": true,
-  "solutionUrl": "https://raw.githubusercontent.com/Sreekumar07/Quiz/main/Day14.pdf",
+  "solutionUrl": "https://raw.githubusercontent.com/Sreekumar07/Quiz/main/Day15.pdf",
   "questions": [
     {
       "id": "q1",
-      "question": "Choose the word that best completes the sentence: The candidate gave a ___ explanation, covering every important point without unnecessary details.",
+      "question": "Choose the word that best completes the sentence: The instructions were so ___ that every candidate understood exactly what was required.",
       "options": [
-        "concise",
-        "vague",
-        "biased",
-        "hesitant"
-      ],
-      "correct": 0
-    },
-    {
-      "id": "q2",
-      "question": "If all successful applicants submitted their documents, and Ravi did not submit his documents, what can be concluded based only on these statements?",
-      "options": [
-        "Ravi was definitely unsuccessful.",
-        "Ravi was definitely rejected.",
-        "Ravi cannot be confirmed as a successful applicant.",
-        "Ravi did not attend the interview."
-      ],
-      "correct": 2
-    },
-    {
-      "id": "q3",
-      "question": "Choose the sentence that is grammatically correct.",
-      "options": [
-        "Each of the students have submitted their resume.",
-        "Each of the students has submitted their resume.",
-        "Each students has submitted their resume.",
-        "Each of the student have submitted their resume."
+        "ambiguous",
+        "explicit",
+        "reluctant",
+        "temporary"
       ],
       "correct": 1
     },
     {
-      "id": "q4",
-      "question": "Four people P, Q, R and S are standing in a line. P is to the left of Q. R is to the right of Q. S is to the left of P. Who is at the extreme left?",
+      "id": "q2",
+      "question": "Five students P, Q, R, S and T are standing in a row. P is to the left of Q. R is to the right of Q. S is to the left of P. T is to the right of R. Who is in the middle?",
       "options": [
         "P",
         "Q",
         "R",
         "S"
       ],
-      "correct": 3
+      "correct": 1
     },
     {
-      "id": "q5",
-      "question": "Statement: 'The company introduced flexible working hours, and employee satisfaction increased significantly.' Which conclusion is most reasonable?",
+      "id": "q3",
+      "question": "Choose the grammatically correct sentence.",
       "options": [
-        "Flexible working hours are the only reason for employee satisfaction.",
-        "Flexible working hours may have contributed to increased satisfaction.",
-        "Every employee prefers flexible working hours.",
-        "Employee satisfaction always increases when working hours change."
+        "Neither the employees nor the manager were aware of the change.",
+        "Neither the employees nor the manager was aware of the change.",
+        "Neither the employees or the manager was aware of the change.",
+        "Neither employees nor the manager were aware of the change."
       ],
       "correct": 1
     },
     {
-      "id": "q6",
-      "question": "Choose the word closest in meaning to 'substantiate'.",
+      "id": "q4",
+      "question": "All analysts are careful. Some developers are analysts. Which conclusion definitely follows?",
       "options": [
-        "Ignore",
-        "Support with evidence",
-        "Question repeatedly",
-        "Simplify"
+        "All developers are careful.",
+        "Some developers are careful.",
+        "No developers are careful.",
+        "All careful people are developers."
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q5",
+      "question": "A company's customer complaints decreased after it introduced a new support system. Which conclusion is most reasonable?",
+      "options": [
+        "The new support system may have contributed to the decrease.",
+        "The new support system definitely eliminated all customer problems.",
+        "Customer complaints can only be reduced through support systems.",
+        "Every customer prefers the new support system."
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q6",
+      "question": "Choose the word closest in meaning to 'diligent'.",
+      "options": [
+        "Careless",
+        "Hardworking",
+        "Uncertain",
+        "Impatient"
       ],
       "correct": 1
     },
     {
       "id": "q7",
-      "question": "Five tasks A, B, C, D and E must be completed in order. A must occur before C. B must occur before D. E must be the last task. Which sequence is possible?",
+      "question": "Four tasks W, X, Y and Z must be completed one after another. W must be before Y. X must be before Z. Which sequence is possible?",
       "options": [
-        "C A B D E",
-        "B D A C E",
-        "A C E B D",
-        "D B A C E"
+        "Y W X Z",
+        "X Z W Y",
+        "Z X W Y",
+        "W Y Z X"
       ],
       "correct": 1
     },
     {
       "id": "q8",
-      "question": "A statement says: 'Some developers are designers. All designers are creative.' Which conclusion definitely follows?",
+      "question": "A company requires every candidate who reaches the final interview stage to complete a technical assessment. Meena did not complete the technical assessment. What can definitely be concluded?",
       "options": [
-        "All developers are creative.",
-        "Some developers are creative.",
-        "No developers are creative.",
-        "All creative people are developers."
+        "Meena definitely failed the interview.",
+        "Meena definitely reached the final interview stage.",
+        "Meena cannot be confirmed as having reached the final interview stage.",
+        "Meena was definitely rejected by the company."
       ],
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "q9",
-      "question": "Which response is most appropriate when you disagree with a teammate's idea during a professional discussion?",
+      "question": "Which sentence is most appropriate for a professional email requesting an extension?",
       "options": [
-        "Your idea is completely wrong.",
-        "I don't agree, so let's ignore it.",
-        "I see your point. However, could we also consider another approach?",
-        "Everyone knows my approach is better."
+        "Give me more time because I cannot finish this.",
+        "I won't finish it today, so extend the deadline.",
+        "Could you please consider extending the deadline by one day due to the additional work required?",
+        "The deadline is impossible, so you need to change it."
       ],
       "correct": 2
     },
     {
       "id": "q10",
-      "question": "A project team notices that a task repeatedly takes longer than estimated. What is the best analytical response?",
+      "question": "A team is deciding between two solutions. Solution A is cheaper but slower, while Solution B is faster but more expensive. What should the team do first?",
       "options": [
-        "Keep using the same estimate without investigation.",
-        "Blame the person performing the task.",
-        "Examine previous tasks, identify the cause of the delay, and improve future estimates.",
-        "Remove the task from the project."
+        "Choose the cheaper solution immediately.",
+        "Choose the faster solution immediately.",
+        "Compare both solutions against the project's cost, time and requirements.",
+        "Let the most senior team member decide without discussion."
       ],
       "correct": 2
     }
