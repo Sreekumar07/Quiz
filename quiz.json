@@ -1,126 +1,236 @@
 {
   "schemaVersion": "1.0",
-  "quizId": "20AUG2026",
-  "title": "Placement Training Test - Verbal Ability & Logical Reasoning - Day 15",
-  "description": "A fresh placement-style assessment focused on verbal ability, logical reasoning, analytical thinking, critical reasoning, and professional communication.",
-  "duration": 8,
-  "startTime": "2026-08-20T00:00:00+05:30",
-  "endTime": "2026-08-20T23:59:59+05:30",
+  "quizId": "21AUG2026PHASE1FINAL20",
+  "title": "Placement Hub - Phase 1 Final Mock Placement Test",
+  "description": "Final Phase 1 assessment covering quantitative aptitude, logical reasoning, verbal ability, data interpretation, critical thinking, and workplace decision making.",
+  "duration": 20,
+  "startTime": "2026-08-21T00:00:00+05:30",
+  "endTime": "2026-08-22T23:59:59+05:30",
   "passingMarks": 50,
   "shuffleQuestions": true,
   "shuffleOptions": true,
   "negativeMarking": 0,
   "showCorrectAnswers": true,
   "downloadAnswerScript": true,
-  "solutionUrl": "https://raw.githubusercontent.com/Sreekumar07/Quiz/main/Day15.pdf",
+  "solutionUrl": "https://raw.githubusercontent.com/Sreekumar07/Quiz/main/Day16-2.pdf",
   "questions": [
     {
       "id": "q1",
-      "question": "Choose the word that best completes the sentence: The instructions were so ___ that every candidate understood exactly what was required.",
+      "question": "A company has 800 employees. 45% work in technical departments, and 30% of those technical employees work on Project A. How many employees work on Project A?",
       "options": [
-        "ambiguous",
-        "explicit",
-        "reluctant",
-        "temporary"
+        "96",
+        "108",
+        "120",
+        "135"
       ],
       "correct": 1
     },
     {
       "id": "q2",
-      "question": "Five students P, Q, R, S and T are standing in a row. P is to the left of Q. R is to the right of Q. S is to the left of P. T is to the right of R. Who is in the middle?",
+      "question": "A candidate travels 240 km to attend an interview. The first 120 km is covered at 60 km/h and the remaining 120 km at 40 km/h. What is the total travel time?",
       "options": [
-        "P",
-        "Q",
-        "R",
-        "S"
+        "4 hours",
+        "4.5 hours",
+        "5 hours",
+        "5.5 hours"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "q3",
-      "question": "Choose the grammatically correct sentence.",
+      "question": "A project team of 6 members has an average experience of 4 years. When the team leader is included, the average experience of 7 people becomes 5 years. How many years of experience does the team leader have?",
       "options": [
-        "Neither the employees nor the manager were aware of the change.",
-        "Neither the employees nor the manager was aware of the change.",
-        "Neither the employees or the manager was aware of the change.",
-        "Neither employees nor the manager were aware of the change."
+        "9 years",
+        "10 years",
+        "11 years",
+        "12 years"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "q4",
-      "question": "All analysts are careful. Some developers are analysts. Which conclusion definitely follows?",
+      "question": "A product originally costs ₹2,000. Its price is increased by 15% and then a discount of 10% is given on the increased price. What is the final selling price?",
       "options": [
-        "All developers are careful.",
-        "Some developers are careful.",
-        "No developers are careful.",
-        "All careful people are developers."
-      ],
-      "correct": 1
-    },
-    {
-      "id": "q5",
-      "question": "A company's customer complaints decreased after it introduced a new support system. Which conclusion is most reasonable?",
-      "options": [
-        "The new support system may have contributed to the decrease.",
-        "The new support system definitely eliminated all customer problems.",
-        "Customer complaints can only be reduced through support systems.",
-        "Every customer prefers the new support system."
+        "₹2,070",
+        "₹2,100",
+        "₹2,150",
+        "₹2,200"
       ],
       "correct": 0
     },
     {
-      "id": "q6",
-      "question": "Choose the word closest in meaning to 'diligent'.",
+      "id": "q5",
+      "question": "The number of students placed from four departments is: CSE = 80, ECE = 60, EEE = 40 and MECH = 20. What percentage of the total placements came from CSE and ECE together?",
       "options": [
-        "Careless",
-        "Hardworking",
-        "Uncertain",
-        "Impatient"
+        "60%",
+        "65%",
+        "70%",
+        "75%"
       ],
-      "correct": 1
+      "correct": 2
+    },
+    {
+      "id": "q6",
+      "question": "Five students A, B, C, D and E are standing in a line. E is ahead of A. A is ahead of B. B is ahead of D. D is ahead of C. Who is definitely at the extreme front?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "correct": 3
     },
     {
       "id": "q7",
-      "question": "Four tasks W, X, Y and Z must be completed one after another. W must be before Y. X must be before Z. Which sequence is possible?",
+      "question": "Four presentations P, Q, R and S are scheduled from Monday to Thursday. P must be before R. Q cannot be on Monday. S must be immediately after Q. Which schedule is possible?",
       "options": [
-        "Y W X Z",
-        "X Z W Y",
-        "Z X W Y",
-        "W Y Z X"
+        "Monday Q, Tuesday S, Wednesday P, Thursday R",
+        "Monday P, Tuesday Q, Wednesday S, Thursday R",
+        "Monday R, Tuesday Q, Wednesday S, Thursday P",
+        "Monday S, Tuesday Q, Wednesday P, Thursday R"
       ],
       "correct": 1
     },
     {
       "id": "q8",
-      "question": "A company requires every candidate who reaches the final interview stage to complete a technical assessment. Meena did not complete the technical assessment. What can definitely be concluded?",
+      "question": "Priya is the sister of Rahul. Rahul is the father of Kiran. How is Priya related to Kiran?",
       "options": [
-        "Meena definitely failed the interview.",
-        "Meena definitely reached the final interview stage.",
-        "Meena cannot be confirmed as having reached the final interview stage.",
-        "Meena was definitely rejected by the company."
+        "Mother",
+        "Aunt",
+        "Sister",
+        "Cousin"
       ],
-      "correct": 2
+      "correct": 1
     },
     {
       "id": "q9",
-      "question": "Which sentence is most appropriate for a professional email requesting an extension?",
+      "question": "Statements: All managers are employees. Some employees are developers. Which conclusion definitely follows?",
       "options": [
-        "Give me more time because I cannot finish this.",
-        "I won't finish it today, so extend the deadline.",
-        "Could you please consider extending the deadline by one day due to the additional work required?",
-        "The deadline is impossible, so you need to change it."
+        "All developers are managers.",
+        "Some managers are developers.",
+        "All managers are employees.",
+        "No developers are managers."
       ],
       "correct": 2
     },
     {
       "id": "q10",
-      "question": "A team is deciding between two solutions. Solution A is cheaper but slower, while Solution B is faster but more expensive. What should the team do first?",
+      "question": "Question: Is N greater than M? Statement I: N is greater than P. Statement II: P is greater than M. Which conclusion can be drawn?",
       "options": [
-        "Choose the cheaper solution immediately.",
-        "Choose the faster solution immediately.",
-        "Compare both solutions against the project's cost, time and requirements.",
-        "Let the most senior team member decide without discussion."
+        "Statement I alone is sufficient.",
+        "Statement II alone is sufficient.",
+        "Both statements together are sufficient.",
+        "Neither statement is sufficient."
+      ],
+      "correct": 2
+    },
+    {
+      "id": "q11",
+      "question": "Read the passage: 'Many companies evaluate candidates not only on technical knowledge but also on communication, teamwork and the ability to solve unfamiliar problems. A candidate who knows a programming language but cannot explain a solution clearly may struggle in a collaborative workplace.' What is the main idea?",
+      "options": [
+        "Programming languages are no longer important.",
+        "Technical knowledge alone may not be sufficient for workplace success.",
+        "Companies should hire only candidates with strong communication skills.",
+        "Teamwork is more important than technical knowledge."
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q12",
+      "question": "Arrange the following sentences in the most logical order: P. The team identified the root cause. Q. The application started producing errors. R. The team tested the fix. S. The issue was resolved.",
+      "options": [
+        "Q-P-R-S",
+        "P-Q-R-S",
+        "Q-R-P-S",
+        "R-P-Q-S"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q13",
+      "question": "Choose the word closest in meaning to 'pragmatic'.",
+      "options": [
+        "Practical",
+        "Emotional",
+        "Careless",
+        "Uncertain"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q14",
+      "question": "Choose the grammatically correct sentence.",
+      "options": [
+        "Each candidate are required to bring an identity card.",
+        "Each candidate is required to bring an identity card.",
+        "Each candidates is required to bring an identity card.",
+        "Each candidate were required to bring an identity card."
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q15",
+      "question": "Choose the best completion: 'Despite facing several technical difficulties, the team ____.'",
+      "options": [
+        "managed to complete the project on time",
+        "were unable explaining the problem",
+        "has completed yesterday",
+        "completing the project successfully"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q16",
+      "question": "You are working on a team project and notice that one teammate is repeatedly missing assigned tasks. What should you do first?",
+      "options": [
+        "Complain about the teammate to everyone.",
+        "Complete all of their work without discussion.",
+        "Talk to the teammate privately and understand whether there is a problem.",
+        "Remove the teammate from the project immediately."
+      ],
+      "correct": 2
+    },
+    {
+      "id": "q17",
+      "question": "During an interview, you are asked a technical question you do not know. Which response is most professional?",
+      "options": [
+        "Give a random answer confidently.",
+        "Say you do not know the exact answer but explain the related concept you understand.",
+        "Tell the interviewer that the question is irrelevant.",
+        "Remain silent until the interviewer changes the question."
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q18",
+      "question": "Your team has three tasks due today: a critical production bug, a routine documentation update, and a low-priority design improvement. What should be handled first?",
+      "options": [
+        "The design improvement",
+        "The documentation update",
+        "The critical production bug",
+        "Whichever task is easiest"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "q19",
+      "question": "A client requests an additional feature two days before the project deadline. What is the best first action?",
+      "options": [
+        "Implement it immediately without discussion.",
+        "Reject the request immediately.",
+        "Understand the requirement and assess its effect on time, cost and existing functionality.",
+        "Ask another team to handle it without informing the project manager."
+      ],
+      "correct": 2
+    },
+    {
+      "id": "q20",
+      "question": "During a group discussion, another candidate presents an idea different from yours. What is the strongest response?",
+      "options": [
+        "Interrupt and prove that your idea is better.",
+        "Ignore the candidate's point.",
+        "Acknowledge the idea, evaluate its advantages, and respectfully explain your alternative.",
+        "Wait until the discussion ends and criticize the idea privately."
       ],
       "correct": 2
     }
